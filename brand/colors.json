@@ -1,0 +1,16 @@
+{
+  "_note": "Extrait de reskif.org (Tailwind). 'encre' = couleur de texte principale.",
+  "encre": "#042e4d",
+  "brand": {
+    "blue-500": "#00aaff",
+    "blue-700": "#0068ab",
+    "pink-500": "#ff00e5",
+    "yellow-500": "#ffcc00"
+  },
+  "papier": {
+    "bleu": "#eff9ff",
+    "jaune": "#fffee7",
+    "rose": "#fff1fd"
+  },
+  "blanc": "#ffffff"
+}

@@ -1,0 +1,79 @@
+{
+  "_note": "Couples encre/papier utilisés sur reskif.org. 'hero' = grandes sections plein écran ; 'carte' = vignettes 4/3.",
+  "hero": {
+    "orange": {
+      "ink": "#7c2d12",
+      "paper": "#fb923c",
+      "brightness": 0,
+      "contrast": 0.3,
+      "shaderContrast": 0.9,
+      "dotSize": 7,
+      "overlay": "dégradé bas → #7c2d12"
+    },
+    "jaune": {
+      "ink": "#74430f",
+      "paper": "#ffcc00",
+      "brightness": 0.15,
+      "contrast": 0.25,
+      "shaderContrast": 0.8,
+      "dotSize": 7,
+      "overlay": "dégradé gauche → #ffcc00"
+    },
+    "rose": {
+      "ink": "#53004c",
+      "paper": "#ff00e5",
+      "brightness": 0.01,
+      "contrast": 0.25,
+      "shaderContrast": 0.85,
+      "dotSize": 7,
+      "overlay": "dégradé gauche → #53004c/90"
+    }
+  },
+  "carte": {
+    "defaults": {
+      "contrast": 0.2,
+      "shaderContrast": 0.7,
+      "dotSize": 4.5,
+      "brightness": 0.06
+    },
+    "bleu": {
+      "ink": "#0068ab",
+      "paper": "#def1ff",
+      "brightness": 0.14
+    },
+    "vert": {
+      "ink": "#14532d",
+      "paper": "#4ade80"
+    },
+    "citron": {
+      "ink": "#365314",
+      "paper": "#a3e635"
+    },
+    "violet": {
+      "ink": "#4c1d95",
+      "paper": "#a78bfa"
+    },
+    "rouge": {
+      "ink": "#7f1d1d",
+      "paper": "#f87171"
+    },
+    "rose-pale": {
+      "ink": "#831843",
+      "paper": "#f9a8d4"
+    },
+    "rose": {
+      "ink": "#831843",
+      "paper": "#fb7bb8"
+    },
+    "creme": {
+      "ink": "#a66a02",
+      "paper": "#fffec1",
+      "brightness": -0.08
+    },
+    "magenta": {
+      "ink": "#b700ab",
+      "paper": "#ffe0fc",
+      "brightness": 0.02
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/* reskif-commons — couleurs officielles (extrait de reskif.org) */
+:root {
+  --reskif-encre: #042e4d;        /* texte principal, bordures */
+  --reskif-blue-500: #00aaff;
+  --reskif-blue-700: #0068ab;     /* hover, liens */
+  --reskif-pink-500: #ff00e5;
+  --reskif-yellow-500: #ffcc00;   /* aussi couleur de focus sur fonds riso */
+  --reskif-papier-bleu: #eff9ff;
+  --reskif-papier-jaune: #fffee7;
+  --reskif-papier-rose: #fff1fd;
+  --reskif-font: Rubik, ui-sans-serif, system-ui, -apple-system, sans-serif;
+}
