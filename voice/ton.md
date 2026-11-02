@@ -1,9 +1,13 @@
-# Ton et écriture (premier jet, à valider par Julien)
+# Ton et écriture (d'après la maquette « sphère », à valider par Julien)
 
-Déduit de l'annonce Reskif et de reskif.org.
-- **Tutoiement**, chaleureux, direct, un peu d'humour (« des milliards de trucs », « ça prend deux minutes »).
-- **Concret plutôt qu'abstrait** : des exemples du quotidien (la perceuse à douze mètres, le gaufrier prêté, le pedibus).
-- Vocabulaire maison : **kif** (ce qui se vit mieux à plusieurs), **reskif**, **réseau de kif**, *mettre le virtuel au service du vivant*.
-- **Écriture inclusive au point médian** (porteur·euses, expert·es) quand c'est naturel.
-- Phrases courtes, titres qui accrochent ; pas de jargon start-up creux.
-- Emoji avec parcimonie (💪 ok, pas de guirlandes).
+- **Vouvoiement** sur les sites Reskif (« Et vous, qui êtes-vous ? »). Les projets tiers choisissent leur propre registre.
+- **Poétique mais concret** : des images simples tirées des quatre éléments, puis une phrase qui dit ce que la personne fait.
+  - Feu, financeur·se : « Allumer ce qui compte. »
+  - Air, éclaireur·se : « Faire circuler l'élan. »
+  - Eau, expert·e : « Irriguer les projets. »
+  - Terre, porteur·se de projet : « Rassembler les morceaux. »
+- Vocabulaire maison : **kif**, **réseau de kif**, **le virtuel au service du réel**, les liens **à soi, aux autres et à la nature**, des projets **tournés vers le vivant**.
+- Les quatre rôles : celles et ceux qui **demandent, financent, conseillent et portent**.
+- **Écriture inclusive au point médian** (financeur·se, expert·es, allié·es).
+- Titres courts en capitales (Syne), texte en phrases complètes et chaleureuses ; pas de jargon start-up.
+- Emoji : non, les pictos des éléments font ce travail.

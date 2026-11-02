@@ -8,9 +8,11 @@ Dépôt public, en lecture pour tout le monde. Seul Julien (ou Jean-Claude depui
 |---|---|
 | Comprendre Reskif, la mission, le Studio | [`reskif.md`](reskif.md) |
 | Le logo | [`brand/logo/`](brand/logo/) + règles dans [`brand/usage.md`](brand/usage.md) |
-| Les couleurs | [`brand/colors.json`](brand/colors.json), [`brand/colors.css`](brand/colors.css), [`brand/tailwind.preset.js`](brand/tailwind.preset.js) |
+| Les couleurs et composants (CSS prêt à copier) | [`brand/reskif.css`](brand/reskif.css), [`brand/colors.json`](brand/colors.json), [`brand/colors.css`](brand/colors.css), [`brand/tailwind.preset.js`](brand/tailwind.preset.js) |
 | La typo | [`brand/typography.md`](brand/typography.md) |
-| L'effet riso (marque de fabrique) | [`brand/riso/`](brand/riso/) |
+| La scène 3D « sphère » (accueil de reskif.org) | [`brand/sphere/`](brand/sphere/) |
+| Les pictos animés des quatre éléments | [`brand/pictos/`](brand/pictos/) |
+| L'ancien effet riso (archivé) | [`brand/archives/riso/`](brand/archives/riso/) |
 | Le ton, la façon d'écrire | [`voice/ton.md`](voice/ton.md) |
 | Ajouter le logo dans une navbar | [`snippets/navbar-logo.html`](snippets/navbar-logo.html) |
 | Bandeau « un projet Reskif » en footer | [`snippets/footer-reskif.html`](snippets/footer-reskif.html) |
@@ -21,4 +23,4 @@ Dépôt public, en lecture pour tout le monde. Seul Julien (ou Jean-Claude depui
 - **Rien de secret ici.** Jamais de clé, token, mot de passe ou donnée personnelle.
 - Historique des changements : [`CHANGELOG.md`](CHANGELOG.md).
 
-Source des éléments de design : le site https://reskif.org (dépôt `vjuju/reskif-org`).
+Design system « sphère » (depuis le 2026-11-02) : la maquette de Julien [`vjuju/design/sphere`](https://vjuju.github.io/design/sphere/), en ligne sur https://reskif.org (dépôt `reskif-studio/reskif-org`). Une nuit, trois polices (Syne, Fraunces, EB Garamond), chaud/froid pour les rôles, quatre éléments pour quatre profils.

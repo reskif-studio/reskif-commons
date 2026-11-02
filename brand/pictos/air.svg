@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="picto picto-air" viewBox="0 0 48 48" aria-hidden="true">
+            <g class="swirl" fill="none" stroke-linecap="round" stroke-width="3">
+              <path class="w1" d="M5 19h23a6 6 0 1 0-6-6" stroke="#e6eeff"/>
+              <path class="w2" d="M5 27h31a6 6 0 1 1-6 6" stroke="#4d8dff"/>
+              <path class="w3" d="M9 35h11" stroke="#9cc0ff"/>
+            </g>
+            <g class="motes"><circle cx="40" cy="12" r="1.6" fill="#e6eeff"/><circle cx="8" cy="40" r="1.2" fill="#4d8dff"/><circle cx="42" cy="38" r="1" fill="#ff7a3d"/><circle cx="14" cy="8" r="1" fill="#9cc0ff"/></g>
+          </svg>

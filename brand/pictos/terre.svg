@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="picto picto-terre" viewBox="0 0 48 48" aria-hidden="true">
+            <polygon class="s" style="--dx:-14px;--dy:-10px;--r:-80deg;--i:6" points="16,11 24,4 24,16" fill="#efe9df"/>
+            <polygon class="s" style="--dx:14px;--dy:-12px;--r:70deg;--i:7" points="24,4 32,11 24,16" fill="#ff8a5c"/>
+            <polygon class="s" style="--dx:-16px;--dy:2px;--r:110deg;--i:4" points="16,11 24,16 16,21" fill="#d6cfc4"/>
+            <polygon class="s" style="--dx:16px;--dy:0px;--r:-120deg;--i:5" points="32,11 32,21 24,16" fill="#ff6a2b"/>
+            <polygon class="s" style="--dx:-12px;--dy:8px;--r:60deg;--i:2" points="16,21 24,16 24,27" fill="#8fa8ff"/>
+            <polygon class="s" style="--dx:12px;--dy:10px;--r:-70deg;--i:3" points="24,16 32,21 24,27" fill="#e2dbd0"/>
+            <polygon class="s" style="--dx:0px;--dy:14px;--r:90deg;--i:1" points="20,26 28,26 29,33 19,33" fill="#c9c2b8"/>
+            <polygon class="s" style="--dx:-16px;--dy:14px;--r:-50deg;--i:0" points="7,45 19,33 24,35 24,45" fill="#4d6dff"/>
+            <polygon class="s" style="--dx:16px;--dy:14px;--r:50deg;--i:0" points="24,45 24,35 29,33 41,45" fill="#ff8a5c"/>
+          </svg>

@@ -1,12 +1,17 @@
-/* reskif-commons — couleurs officielles (extrait de reskif.org) */
+/* reskif-commons — couleurs du design system « sphère » (vjuju/design@2df7fba). Version complète : brand/reskif.css */
 :root {
-  --reskif-encre: #042e4d;        /* texte principal, bordures */
-  --reskif-blue-500: #00aaff;
-  --reskif-blue-700: #0068ab;     /* hover, liens */
-  --reskif-pink-500: #ff00e5;
-  --reskif-yellow-500: #ffcc00;   /* aussi couleur de focus sur fonds riso */
-  --reskif-papier-bleu: #eff9ff;
-  --reskif-papier-jaune: #fffee7;
-  --reskif-papier-rose: #fff1fd;
-  --reskif-font: Rubik, ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --night: #010101;               /* fond unique */
+  --ink: #ffffff;                 /* texte, traits forts */
+  --muted: rgba(255, 255, 255, .62);
+  --line: rgba(255, 255, 255, .22);
+  --glass: rgba(10, 4, 24, .55);  /* verre dépoli + backdrop-filter: blur(10px) */
+  --warm: #ffb08a;                /* financer, conseiller : feu, eau */
+  --cold: #9cc0ff;                /* éclairer, porter : air, terre */
+  --warm-vif: #ff6a2b;
+  --cold-vif: #4d8dff;
+  --violet: #5b1cff;
+  --display: "Syne", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --text: "Fraunces", "Iowan Old Style", Georgia, serif;
+  --dict: "EB Garamond", Garamond, "Times New Roman", serif;
+  color-scheme: dark;
 }

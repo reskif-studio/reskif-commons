@@ -2,7 +2,7 @@
 
 > Tout seul on va vite, ensemble on va loin.
 
-**Reskif** est une association, un « **ré**seau de **kif** », qui réunit des financeur·euses, des entrepreneur·es, des expert·es et des curieux·ses autour de projets visant à **mettre le virtuel au service du vivant**.
+**Reskif** est une association, un « **ré**seau de **kif** », qui réunit des financeur·euses, des entrepreneur·es, des expert·es et des curieux·ses autour de projets tournés vers le vivant : **le virtuel au service du réel**.
 
 Le constat de départ : l'IA pousse à démarrer des milliards de trucs sans les finir. Les projets qui aboutissent sont les projets en équipe. Reskif existe pour aller collectivement au bout des projets.
 
@@ -10,7 +10,7 @@ Le constat de départ : l'IA pousse à démarrer des milliards de trucs sans les
 Une forme de start-up studio, mais pour les assos, les side-projects, les étudiant·es qui ne croient plus en ParcourSup.
 - Un projet qui intègre le Studio accède au **Discord Reskif Studio** : des pointures de différents domaines et **Jean-Claude**, une IA entraînée à avoir de l'impact.
 - **Un projet = 1 000 €, un mois, et un site ou une app à la fin.**
-- Trois façons de contribuer : **financer** (1 000 € pour un projet qui arrive les mains vides), **donner du temps** (expertise), **porter un projet**.
+- Quatre profils, quatre éléments : **financeur·se** (feu : 1 000 € pour un projet qui arrive les mains vides), **éclaireur·se** (air : ouvrir la voie, partager l'élan), **expert·e** (eau : donner du temps et du savoir-faire), **porteur·se de projet** (terre).
 
 ## Projets
 - **Passés** : mobilisator (municipales), onveutvivre, festivalDeclic, onestpaspret
