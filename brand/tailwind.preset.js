@@ -1,18 +1,24 @@
-// reskif-commons — preset Tailwind (mêmes noms que reskif.org)
+// reskif-commons — preset Tailwind du design system « sphère »
 // Usage : presets: [require('./tailwind.preset.js')]
 module.exports = {
   theme: {
     extend: {
       colors: {
-        encre: '#042e4d',
-        'brand-blue': { 500: '#00aaff', 700: '#0068ab' },
-        'brand-pink': { 500: '#ff00e5' },
-        'brand-yellow': { 500: '#ffcc00' },
-        'papier-bleu': '#eff9ff',
-        'papier-jaune': '#fffee7',
-        'papier-rose': '#fff1fd',
+        night: '#010101',
+        ink: '#ffffff',
+        muted: 'rgba(255, 255, 255, .62)',
+        line: 'rgba(255, 255, 255, .22)',
+        glass: 'rgba(10, 4, 24, .55)',
+        warm: { DEFAULT: '#ffb08a', vif: '#ff6a2b' },
+        cold: { DEFAULT: '#9cc0ff', vif: '#4d8dff' },
+        violet: '#5b1cff',
       },
-      fontFamily: { sans: ['Rubik', 'ui-sans-serif', 'system-ui', '-apple-system', 'sans-serif'] },
+      fontFamily: {
+        display: ['Syne', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif'],
+        text: ['Fraunces', 'Iowan Old Style', 'Georgia', 'serif'],
+        dict: ['EB Garamond', 'Garamond', 'Times New Roman', 'serif'],
+      },
+      borderRadius: { verre: '18px' },
     },
   },
 };

@@ -1,5 +1,7 @@
-<!-- reskif-commons : logo Reskif en navbar. Copier brand/logo/reskif_logo.svg dans le projet (ex. /reskif_logo.svg). -->
-<a href="https://reskif.org" class="reskif-logo" aria-label="Reskif" style="display:inline-flex;align-items:center;flex-shrink:0">
-  <img src="/reskif_logo.svg" alt="Reskif" style="height:28px;width:auto">
-</a>
-<!-- Variante Tailwind : <a href="https://reskif.org" class="shrink-0"><img src="/reskif_logo.svg" alt="Reskif" class="h-7 w-auto"></a> -->
+<!-- reskif-commons : logo Reskif en navbar, sur fond nuit. Copier brand/logo/reskif_logo.svg dans le projet (ex. /reskif_logo.svg). -->
+<header style="position:sticky;top:0;z-index:20;background:rgba(1,1,1,.72);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid rgba(255,255,255,.22)">
+  <div style="max-width:72rem;margin:0 auto;padding:.8rem 1.5rem;display:flex;align-items:center;gap:1.5rem">
+    <a href="https://reskif.org" aria-label="Reskif" style="display:inline-flex;flex-shrink:0"><img src="/reskif_logo.svg" alt="Reskif" style="height:28px;width:auto"></a>
+  </div>
+</header>
+<!-- Variante Tailwind (preset) : <a href="https://reskif.org" class="shrink-0"><img src="/reskif_logo.svg" alt="Reskif" class="h-7 w-auto"></a> -->

@@ -1,16 +1,23 @@
 {
-  "_note": "Extrait de reskif.org (Tailwind). 'encre' = couleur de texte principale.",
-  "encre": "#042e4d",
-  "brand": {
-    "blue-500": "#00aaff",
-    "blue-700": "#0068ab",
-    "pink-500": "#ff00e5",
-    "yellow-500": "#ffcc00"
+  "_note": "Design system « sphère » (vjuju/design@2df7fba). Un seul univers : la nuit. Chaud/froid = deux familles de rôles.",
+  "night": "#010101",
+  "ink": "#ffffff",
+  "muted": "rgba(255, 255, 255, .62)",
+  "line": "rgba(255, 255, 255, .22)",
+  "glass": "rgba(10, 4, 24, .55)",
+  "warm": "#ffb08a",
+  "cold": "#9cc0ff",
+  "vif": {
+    "warm": "#ff6a2b",
+    "cold": "#4d8dff",
+    "violet": "#5b1cff",
+    "braise": "#ffb347",
+    "creme": "#fff3d6"
   },
-  "papier": {
-    "bleu": "#eff9ff",
-    "jaune": "#fffee7",
-    "rose": "#fff1fd"
-  },
-  "blanc": "#ffffff"
+  "roles": {
+    "financeur": "warm",
+    "eclaireur": "cold",
+    "expert": "warm",
+    "porteur": "cold"
+  }
 }
